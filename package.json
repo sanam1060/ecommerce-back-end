@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "## **_Description of the project_**",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sanam1060/ecommerce-back-end.git"
+    "url": "git+ssh://git@github.com/sanam1060/ecommerce-back-end.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "sanamg",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
@@ -24,5 +24,9 @@
     "express": "^4.17.1",
     "mysql2": "^2.3.3",
     "sequelize": "^5.22.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sanam1060/ecommerce-back-end/issues"
+  },
+  "homepage": "https://github.com/sanam1060/ecommerce-back-end#readme"
 }
